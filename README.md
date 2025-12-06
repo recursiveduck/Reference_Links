@@ -106,7 +106,7 @@ No endorsements expressed or implied. Use at your own risk, verify information w
 - [Gophish](https://getgophish.com/)  
   Open source phishing simulation platform for awareness training.
 
-- [2fa Directory](https://2fa.directory/)
+- [2fa Directory](https://2fa.directory/)  
   Directory of apps and services that support Two Factor Authentication.
 ---
 
